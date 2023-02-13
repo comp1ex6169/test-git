@@ -17,15 +17,5 @@ for i in range(4):
     turtle.right(45)
     
 
-
-
-
-
-
-
-
-
-
-
 turtle.done()
 
