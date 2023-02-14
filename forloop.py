@@ -3,3 +3,4 @@ for kuy in range(1,100):
         print(kuy)
         print("Phet noob")
         print("noob")
+        print("Katang noob")
