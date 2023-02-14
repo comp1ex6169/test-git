@@ -14,4 +14,4 @@ elif asmd == "x" :
 elif asmd == "/" :
      print(divided)
 else :
-     print("Invalid string") 
+     print("Invalid str") 
