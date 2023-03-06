@@ -1,4 +1,3 @@
-strIn = str(input("Enter a letter: "))
-convert_string = int(strIn, base = 16)
-ans = hex(convert_string)
+text = ord(input("Enter a letter : "))
+ans = hex(text)
 print(ans)
